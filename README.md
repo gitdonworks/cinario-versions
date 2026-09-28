@@ -7,9 +7,17 @@ dans **Releases**, à droite de cette page.
 
 ## Avant d'installer
 
-- Un Mac.
-- Un abonnement Claude (Pro ou Max), et Claude Code installé et connecté.
-  Cinario écrit avec votre abonnement ; l'accueil vérifie la connexion.
+- Un Mac avec **macOS 13 (Ventura) ou plus récent** : menu  › À propos de
+  ce Mac pour voir la version.
+- Un abonnement Claude **Pro ou Max**. Cinario écrit avec votre abonnement.
+
+Rien d'autre à installer à la main : au premier lancement, Cinario installe
+lui-même Claude Code (l'outil d'Anthropic qui le fait écrire), puis ouvre la
+page d'Anthropic dans votre navigateur pour vous connecter. L'app Claude ne
+suffit pas : c'est Cinario qui s'en charge.
+
+Si macOS propose d'installer les « outils de développement en ligne de
+commande », cliquez **Installer**, puis rouvrez Cinario.
 
 ## Installer
 
